@@ -1,0 +1,36 @@
+[
+    {
+        "title":"Hybrid Theory",
+        "artist":"LinkinPark",
+        "thumbnail_img":"https://upload.wikimedia.org/wikipedia/zh/thumb/6/66/Linkin_Park_Band_Logo.jpg/220px-Linkin_Park_Band_Logo.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/zh/0/04/Hybird_Theory.jpg"
+    },
+
+    {
+        "title":"Meteora",
+        "artist":"LinkinPark",
+        "thumbnail_img":"https://upload.wikimedia.org/wikipedia/zh/thumb/6/66/Linkin_Park_Band_Logo.jpg/220px-Linkin_Park_Band_Logo.jpg",
+        "image":"https://cdn.europosters.eu/image/1300/posters/linkin-park-meteora-i876.jpg"
+    },
+
+    {
+        "title":"Minutes to Midnight",
+        "artist":"LinkinPark",
+        "thumbnail_img":"https://upload.wikimedia.org/wikipedia/zh/thumb/6/66/Linkin_Park_Band_Logo.jpg/220px-Linkin_Park_Band_Logo.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/MINUTE_TO_MIDNIGHT_ASIA_TOUR.jpg/220px-MINUTE_TO_MIDNIGHT_ASIA_TOUR.jpg"
+    },
+
+    {
+        "title":"Living Things",
+        "artist":"LinkinPark",
+        "thumbnail_img":"https://upload.wikimedia.org/wikipedia/zh/thumb/6/66/Linkin_Park_Band_Logo.jpg/220px-Linkin_Park_Band_Logo.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/zh/5/51/Linkin_Park_LIVING_THINGS_album_cover.jpg"
+    },
+
+    {
+        "title":"One More Light",
+        "artist":"LinkinPark",
+        "thumbnail_img":"https://upload.wikimedia.org/wikipedia/zh/thumb/6/66/Linkin_Park_Band_Logo.jpg/220px-Linkin_Park_Band_Logo.jpg",
+        "image":"https://www.vagalume.com.br/dynimage/news39333-big.jpg"
+    }
+]
